@@ -66,7 +66,7 @@
 }
 
 .app__gallery-images_card:hover img {
-    opacity: .35;
+    opacity: .4;
 }
 
 .app__gallery-images_card:hover .gallery__image-icon {

@@ -60,7 +60,7 @@ const awards = [
   {
     imgUrl: images.award01,
     title: 'Bib Gourmond',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Nestled in the heart of Provence, the Bistrot de Berne welcomes you in an exceptional Provençal setting, and offers top-of-the-range cuisine at a lower cost. ',
   },
   {
     imgUrl: images.award02,
@@ -75,7 +75,7 @@ const awards = [
   {
     imgUrl: images.award05,
     title: 'Outstanding Chef',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'All these qualities have earned it a Bib Gourmand in the Michelin Guide.',
   },
 ];
 

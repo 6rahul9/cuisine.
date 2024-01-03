@@ -24,7 +24,7 @@ const AboutUs = () => (
       <div className="app__aboutus-content_history">
         <h1 className="headtext__cormorant">Our History</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
-        <p className="p__opensans">&quot;In This City That Keeps Growing While Staying Grounded To It's Roots Of Exquisiteness And Service.&quot;</p>
+        <p className="p__opensans">`&quot;` In This City That Keeps Growing While Staying Grounded To It is Roots Of Exquisiteness And Service. `&quot;`</p>
         <button type="button" className="custom__button">Know More</button>
       </div>
     </div>
